@@ -45,4 +45,4 @@ This project presents an interactive Power BI dashboard analyzing retail sales d
 
 ---
 
-Feel free to clone, explore, or use this as a template for your own dashboards.
+
