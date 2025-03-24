@@ -40,7 +40,7 @@ This project presents an interactive Power BI dashboard analyzing retail sales d
 
 ## 📸 Screenshot
 
-> You can insert an image here later using:
+
 `![Dashboard Screenshot](./dashboard.png)`
 
 ---
