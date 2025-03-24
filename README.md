@@ -34,15 +34,14 @@ This project presents an interactive Power BI dashboard analyzing retail sales d
 
 ## 📁 Files
 
-- `Report.pbix`: Power BI report file
+- `Report.pbix` : Power BI report file
+- `dashboard.png` : Report screenshot
 
 ---
 
 ## 📸 Screenshot
 
-
-`![Dashboard Screenshot](dashboard.png)
-`
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
